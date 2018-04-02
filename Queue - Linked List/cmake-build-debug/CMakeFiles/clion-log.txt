@@ -1,0 +1,4 @@
+/usr/share/CLion-2018.1/clion-2018.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/bagaswh/Desktop/cs50/data-structures - Github/Queue - Linked List"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bagaswh/Desktop/cs50/data-structures - Github/Queue - Linked List/cmake-build-debug

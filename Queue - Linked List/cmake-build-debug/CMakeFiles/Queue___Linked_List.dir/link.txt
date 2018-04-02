@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Queue___Linked_List.dir/main.c.o  -o Queue___Linked_List 

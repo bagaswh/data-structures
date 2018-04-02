@@ -1,0 +1,3 @@
+/home/bagaswh/Desktop/cs50/data-structures - Github/Stacks - Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bagaswh/Desktop/cs50/data-structures - Github/Stacks - Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bagaswh/Desktop/cs50/data-structures - Github/Stacks - Array/cmake-build-debug/CMakeFiles/Stack___Array.dir

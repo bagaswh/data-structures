@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bagaswh/Desktop/cs50/data-structures - Github/Queue - Array/main.c
+stdio.h
+-
+queue.h
+/home/bagaswh/Desktop/cs50/data-structures - Github/Queue - Array/queue.h
+
+/home/bagaswh/Desktop/cs50/data-structures - Github/Queue - Array/queue.h
+stdlib.h
+-
+stdio.h
+-
+errno.h
+-
+

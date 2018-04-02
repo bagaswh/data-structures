@@ -1,4 +1,4 @@
-/usr/share/CLion-2018.1/clion-2018.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/bagaswh/CLionProjects/Hash Table"
+/usr/share/CLion-2018.1/clion-2018.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/bagaswh/Desktop/cs50/data-structures - Github/Hash Table"
 -- The C compiler identification is GNU 7.2.0
 -- Check for working C compiler: /usr/bin/cc
 -- Check for working C compiler: /usr/bin/cc -- works
@@ -8,4 +8,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/bagaswh/CLionProjects/Hash Table/cmake-build-debug
+-- Build files have been written to: /home/bagaswh/Desktop/cs50/data-structures - Github/Hash Table/cmake-build-debug
