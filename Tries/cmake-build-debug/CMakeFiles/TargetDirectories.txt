@@ -1,0 +1,3 @@
+/home/bagaswh/CLionProjects/Tries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bagaswh/CLionProjects/Tries/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bagaswh/CLionProjects/Tries/cmake-build-debug/CMakeFiles/Tries.dir

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bagaswh/CLionProjects/Hash Table/hash.h
+memory.h
+-
+
+/home/bagaswh/CLionProjects/Hash Table/hashtable.h
+stdint.h
+-
+asm/errno.h
+-
+hash.h
+/home/bagaswh/CLionProjects/Hash Table/hash.h
+list.h
+/home/bagaswh/CLionProjects/Hash Table/list.h
+
+/home/bagaswh/CLionProjects/Hash Table/list.h
+stdlib.h
+-
+asm/errno.h
+-
+stdbool.h
+-
+memory.h
+-
+stdio.h
+-
+
+/home/bagaswh/CLionProjects/Hash Table/main.c
+stdio.h
+-
+hashtable.h
+/home/bagaswh/CLionProjects/Hash Table/hashtable.h
+
